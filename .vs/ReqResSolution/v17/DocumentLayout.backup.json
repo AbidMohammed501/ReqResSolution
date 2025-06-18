@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abid_\\source\\repos\\ReqResSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F3A636-458C-48D6-90A6-A675BE3B5498}|ConsoleDemo\\ConsoleDemo.csproj|c:\\users\\abid_\\source\\repos\\reqressolution\\consoledemo\\consoledemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1F3A636-458C-48D6-90A6-A675BE3B5498}|ConsoleDemo\\ConsoleDemo.csproj|solutionrelative:consoledemo\\consoledemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F3A636-458C-48D6-90A6-A675BE3B5498}|ConsoleDemo\\ConsoleDemo.csproj|c:\\users\\abid_\\source\\repos\\reqressolution\\consoledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F3A636-458C-48D6-90A6-A675BE3B5498}|ConsoleDemo\\ConsoleDemo.csproj|solutionrelative:consoledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleDemo",
+              "DocumentMoniker": "C:\\Users\\abid_\\source\\repos\\ReqResSolution\\ConsoleDemo\\ConsoleDemo.csproj",
+              "RelativeDocumentMoniker": "ConsoleDemo\\ConsoleDemo.csproj",
+              "ToolTip": "C:\\Users\\abid_\\source\\repos\\ReqResSolution\\ConsoleDemo\\ConsoleDemo.csproj",
+              "RelativeToolTip": "ConsoleDemo\\ConsoleDemo.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T06:42:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abid_\\source\\repos\\ReqResSolution\\ConsoleDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\abid_\\source\\repos\\ReqResSolution\\ConsoleDemo\\Program.cs",
+              "RelativeToolTip": "ConsoleDemo\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:19:00.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

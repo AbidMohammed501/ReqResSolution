@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SegvORfHIDcNCuLozcPro4jsAIDYcJBbdX1vmE+V3oY=",
+  "Source": "ReqResApi.WebApi",
+  "BasePath": "_content/ReqResApi.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

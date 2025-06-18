@@ -1,0 +1,12 @@
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\bin\Debug\net8.0\ReqResApiIntegration.deps.json
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\bin\Debug\net8.0\ReqResApiIntegration.dll
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\bin\Debug\net8.0\ReqResApiIntegration.pdb
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\obj\Debug\net8.0\ReqResApiIntegration.csproj.AssemblyReference.cache
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\obj\Debug\net8.0\ReqResApiIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\obj\Debug\net8.0\ReqResApiIntegration.AssemblyInfoInputs.cache
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\obj\Debug\net8.0\ReqResApiIntegration.AssemblyInfo.cs
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\obj\Debug\net8.0\ReqResApiIntegration.csproj.CoreCompileInputs.cache
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\obj\Debug\net8.0\ReqResApiIntegration.dll
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\obj\Debug\net8.0\refint\ReqResApiIntegration.dll
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\obj\Debug\net8.0\ReqResApiIntegration.pdb
+C:\Users\abid_\source\repos\ReqResSolution\ReqResApiIntegration\obj\Debug\net8.0\ref\ReqResApiIntegration.dll
